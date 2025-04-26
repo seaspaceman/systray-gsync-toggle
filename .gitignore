@@ -1,2 +1,4 @@
 build
-#external
+.gitignore
+.vscode/
+.github/
