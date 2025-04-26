@@ -1,3 +1,6 @@
 [submodule "externals/nvapi-wrapper"]
 	path = externals/nvapi-wrapper
 	url = https://github.com/FrogTheFrog/nvapi-wrapper
+[submodule "vendor/QHotkey"]
+	path = vendor/QHotkey
+	url = https://github.com/Skycoder42/QHotkey.git
