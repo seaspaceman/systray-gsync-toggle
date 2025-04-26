@@ -13,7 +13,7 @@ G-Sync mode switching application that lives in the system tray.
   - G-Sync fullscreen only
   - G-Sync fullscreen and windowed
 
-🎨 Supports custom icon colors for each G-Sync mode:
+🎨 Supports setting custom icon colors for each G-Sync mode:
   - G-Sync off
   - G-Sync fullscreen only
   - G-Sync fullscreen and windowed
