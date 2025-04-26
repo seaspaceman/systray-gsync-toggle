@@ -7,7 +7,7 @@ G-Sync mode switching application that lives in the system tray.
   - G-Sync fullscreen only
   - G-Sync fullscreen and windowed
 
-⌨ Supports custom keybindings configured in the settings menu:
+⌨ Supports remapping keybindings in the settings menu:
   - Toggle between last G-Sync mode and G-Sync off
   - G-Sync off
   - G-Sync fullscreen only
