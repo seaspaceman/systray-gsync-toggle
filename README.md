@@ -34,9 +34,10 @@ If you experience any problems, please open an [issue](https://github.com/seaspa
 
 This project is licensed under the GNU General Public License v3.0 (GPL-3.0)
 
-## Included Libraries and Their Licenses
+## Included Libraries
 
-- **gsync-toggle**: GNU General Public License v3.0
-- **nvapi-wrapper**: GNU General Public License v3.0
-- **nvapi**: MIT License
-- **Qt**: GNU Lesser General Public License v3.0
+- [**FrogTheFrog/gsync-toggle**](https://github.com/FrogTheFrog/gsync-toggle) GNU General Public License v3.0
+- [**FrogTheFrog/nvapi-wrapper**](https://github.com/FrogTheFrog/nvapi-wrapper) GNU General Public License v3.0
+- [**Skycoder42/QHotkey**](https://github.com/Skycoder42/QHotkey) BSD 3-Clause License
+- [**LizardByte/nvapi-open-source-sdk**](https://github.com/LizardByte/nvapi-open-source-sdk) MIT License
+- [**Qt**](https://qt-project.org/) GNU Lesser General Public License v3.0
